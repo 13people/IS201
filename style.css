@@ -1,0 +1,39 @@
+body, h1, h2, p, {
+    margin: 4;
+    padding: 0;
+  }
+  
+
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color:beige;
+  }
+  
+  h2 {
+    font-size: 20px;
+    margin-bottom: 15px;
+    color: darkcyan;
+  }
+  
+  p {
+    margin-bottom: 10px;
+  }
+
+  body {
+    font-family: Arial, sans-serif;
+    background-color: lightgrey;
+  }
+
+  
+ 
+  
+  
+  
+  

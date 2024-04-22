@@ -1,0 +1,21 @@
+ .header{
+    background-color: darkgrey; 
+    color: white;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+}
+
+.common{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mainbody{
+    background-color: whitesmoke;
+}
+
+img{
+    display:block;
+    width: 35%;
+}
